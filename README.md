@@ -6,7 +6,7 @@ Library Require :
 OpenCV
 
 > Best way to install OpenCV is first install anaconda then use this command on conda terminal :
-<br/>
+
 > conda install -c menpo opencv 
 
 Opencv 2.4 is best option rather than opencv 3.
