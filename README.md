@@ -1,5 +1,5 @@
 # Follow-Color-Object-Using-Python-and-OpenCV
-Purpose of this project is to develop code to detect specific color object from camera attach to PC , and sense its direction.
+Purpose of this project is to develop code to detect specific color object with help of PC camera , and detect its direction of movements.
 This code is devleop using Python and OpenCV 2.4. In this we are following orange color object.
 
 Library Require : 
